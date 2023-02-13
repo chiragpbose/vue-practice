@@ -11,9 +11,9 @@
     "sasslint": "sass-lint -c .sass-lint.yml -v -f table"
   },
   "devDependencies": {
-    "concurrently": "^7.0.0",
-    "live-server": "^1.2.1",
-    "node-sass": "^7.0.1",
+    "concurrently": "^7.6.0",
+    "live-server": "^1.2.2",
+    "node-sass": "^8.0.0",
     "normalize.css": "^8.0.1",
     "sass-lint": "^1.13.1",
     "tjw-sasslint-rules": "^2.1.0"

@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+"repository":{
+"type":"git",
+"url":"git+https://github.com/chiragpbose/vue-practice.git" 
+},
   "scripts": {
     "start": "concurrently \"npm run sass\" \"npm run serve\"",
     "serve": "live-server --open=/src/app.html --ignore=.git,node_modules",
